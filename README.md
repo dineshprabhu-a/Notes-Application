@@ -9,7 +9,9 @@ Dynamic Interface: The UI is generated dynamically, providing a seamless user ex
 
 **Technologies Used**
 HTML: For structuring the application.
+
 CSS: For styling and layout.
+
 JavaScript: For implementing functionality and managing data.
 
 **How to Use**
